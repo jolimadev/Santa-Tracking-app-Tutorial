@@ -4,7 +4,8 @@ Créditos a freecodecamp por prestar la documentación y poder practicar y reali
 <br>
 <h2> 🎅🤶🧑‍🎄👩‍💻</h2>
 <br>
-![printsanta](https://user-images.githubusercontent.com/84105167/209686722-a6bae9ad-b887-4c95-bb3e-cc932d86d375.png)
+
+![image](https://user-images.githubusercontent.com/84105167/209686919-26843220-1863-400f-a50b-5e457b0c7af5.png)
 
 
 <br>
